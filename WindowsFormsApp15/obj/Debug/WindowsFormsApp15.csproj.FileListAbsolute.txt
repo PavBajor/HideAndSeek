@@ -1,0 +1,10 @@
+C:\Users\Pablo\source\repos\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.exe.config
+C:\Users\Pablo\source\repos\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.exe
+C:\Users\Pablo\source\repos\WindowsFormsApp15\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.pdb
+C:\Users\Pablo\source\repos\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csprojAssemblyReference.cache
+C:\Users\Pablo\source\repos\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.HouseExplorer.resources
+C:\Users\Pablo\source\repos\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.Properties.Resources.resources
+C:\Users\Pablo\source\repos\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.GenerateResource.cache
+C:\Users\Pablo\source\repos\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.CoreCompileInputs.cache
+C:\Users\Pablo\source\repos\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.exe
+C:\Users\Pablo\source\repos\WindowsFormsApp15\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.pdb
